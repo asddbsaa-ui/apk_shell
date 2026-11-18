@@ -36,3 +36,11 @@ Contact / 联系方式：[Telegram](https://t.me/pmrkeup)
 ## Others（其他地区）
 
 另覆盖北美、英国等多个地区的主流支付及银行平台，包含移动钱包、国有银行、数字银行等多种形态。
+
+---
+
+## Customization（定制）
+
+Support custom protocol integration for unlisted platforms. Provide ready-to-use protocol access, interface adaptation and deployment support. Competitive pricing available（支持定制接入未列出的平台，提供可直接使用的协议、接口适配及部署支持，价格优惠）。
+
+Contact / 联系方式：[Telegram](https://t.me/pmrkeup)
